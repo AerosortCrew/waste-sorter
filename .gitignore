@@ -1,0 +1,34 @@
+# Data (share via Google Drive / Roboflow instead)
+public_data/
+own_photos/
+datasets/
+*.zip
+
+# Model files
+*.pt
+*.onnx
+*.pth
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# VS Code and OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+public_data/
+own_photos/
+*.pt
+*.zip
+__pycache__/
+.env
